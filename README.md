@@ -48,7 +48,7 @@ Full-stack lead management dashboard — React, TypeScript, Node.js, MongoDB, JW
   <img src="https://komarev.com/ghpvc/?username=vraut130512-maker&style=for-the-badge&color=6C5CE7&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 <!--
 **vraut130512-maker/vraut130512-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
