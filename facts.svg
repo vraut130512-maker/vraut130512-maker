@@ -1,0 +1,49 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="900" y2="160" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f4f5f9"/>
+      <stop offset="100%" stop-color="#e9ebf3"/>
+    </linearGradient>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.42"/>
+    </linearGradient>
+    <linearGradient id="ic1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#64D2FF"/><stop offset="100%" stop-color="#0A84FF"/></linearGradient>
+    <linearGradient id="ic2" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FFD60A"/><stop offset="100%" stop-color="#FF9F0A"/></linearGradient>
+    <linearGradient id="ic3" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FF6482"/><stop offset="100%" stop-color="#AF52DE"/></linearGradient>
+  </defs>
+
+  <rect width="900" height="160" rx="24" fill="url(#base)"/>
+  <circle cx="130" cy="20" r="90" fill="#0A84FF" opacity="0.45" filter="url(#blur1)"/>
+  <circle cx="470" cy="150" r="90" fill="#FF9F0A" opacity="0.4" filter="url(#blur1)"/>
+  <circle cx="800" cy="20" r="90" fill="#AF52DE" opacity="0.4" filter="url(#blur1)"/>
+
+  <g transform="translate(30,24)">
+    <rect width="266" height="112" rx="20" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.65"/>
+    <circle cx="42" cy="38" r="18" fill="url(#ic1)"/>
+    <path d="M32 36l10-6 10 6-10 6z" fill="#ffffff"/>
+    <path d="M32 40v6l10 5 10-5v-6" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="24" y="76" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1d1f">84.95%</text>
+    <text x="24" y="95" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#4d4d52">DIPLOMA &#183; INFORMATION TECH</text>
+  </g>
+
+  <g transform="translate(317,24)">
+    <rect width="266" height="112" rx="20" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.65"/>
+    <circle cx="42" cy="38" r="18" fill="url(#ic2)"/>
+    <rect x="32" y="31" width="20" height="17" rx="2.5" fill="none" stroke="#ffffff" stroke-width="2.2"/>
+    <line x1="32" y1="37" x2="52" y2="37" stroke="#ffffff" stroke-width="2.2"/>
+    <text x="24" y="76" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1d1f">2027</text>
+    <text x="24" y="95" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#4d4d52">EXPECTED GRADUATION</text>
+  </g>
+
+  <g transform="translate(604,24)">
+    <rect width="266" height="112" rx="20" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.65"/>
+    <circle cx="42" cy="38" r="18" fill="url(#ic3)"/>
+    <rect x="33" y="32" width="6" height="14" rx="1.5" fill="#ffffff"/>
+    <rect x="41" y="28" width="6" height="18" rx="1.5" fill="#ffffff"/>
+    <rect x="49" y="35" width="6" height="11" rx="1.5" fill="#ffffff"/>
+    <text x="24" y="76" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#1d1d1f">3+</text>
+    <text x="24" y="95" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#4d4d52">PROJECTS SHIPPED</text>
+  </g>
+</svg>

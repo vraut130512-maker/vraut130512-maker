@@ -1,0 +1,21 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="900" y2="80" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f4f5f9"/>
+      <stop offset="100%" stop-color="#e9ebf3"/>
+    </linearGradient>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="35"/></filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" rx="20" fill="url(#base)"/>
+  <circle cx="450" cy="40" r="120" fill="#0A84FF" opacity="0.3" filter="url(#blur1)"/>
+  <circle cx="650" cy="40" r="90" fill="#AF52DE" opacity="0.25" filter="url(#blur1)"/>
+  <rect x="24" y="14" width="852" height="52" rx="16" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.6"/>
+  <circle cx="440" cy="40" r="3.5" fill="#FF375F"/>
+  <circle cx="452" cy="40" r="3.5" fill="#AF52DE"/>
+  <circle cx="464" cy="40" r="3.5" fill="#0A84FF"/>
+  <text x="450" y="48" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#3a3a3c" dy="18">thanks for stopping by</text>
+</svg>
