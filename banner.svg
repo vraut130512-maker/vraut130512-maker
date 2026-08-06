@@ -1,0 +1,58 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#14101f"/>
+      <stop offset="100%" stop-color="#0d0b14"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6C5CE7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6C5CE7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c9c3ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <circle cx="150" cy="70" r="170" fill="url(#glow1)"/>
+  <circle cx="800" cy="230" r="150" fill="url(#glow2)"/>
+
+  <!-- orbit constellation, right side -->
+  <g transform="translate(700,140)" opacity="0.9">
+    <ellipse cx="0" cy="0" rx="150" ry="60" fill="none" stroke="#3a3355" stroke-width="1"/>
+    <ellipse cx="0" cy="0" rx="95" ry="95" fill="none" stroke="#3a3355" stroke-width="1" transform="rotate(35)"/>
+    <ellipse cx="0" cy="0" rx="60" ry="150" fill="none" stroke="#3a3355" stroke-width="1" transform="rotate(-20)"/>
+
+    <g>
+      <circle cx="150" cy="0" r="5" fill="#EC4899"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="14s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="95" cy="0" r="4" fill="#06B6D4" transform="rotate(35)"/>
+      <animateTransform attributeName="transform" type="rotate" from="35 0 0" to="395 0 0" dur="9s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="60" cy="0" r="4.5" fill="#F59E0B" transform="rotate(-20)"/>
+      <animateTransform attributeName="transform" type="rotate" from="-20 0 0" to="340 0 0" dur="11s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="0" cy="0" r="8" fill="#6C5CE7"/>
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#6C5CE7" stroke-width="1" opacity="0.5"/>
+  </g>
+
+  <!-- name + role -->
+  <text x="70" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="url(#nameGrad)">Vivek Raut</text>
+  <text x="72" y="162" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#a89fd6" letter-spacing="1">Software Engineer &#183; B.Tech CSE, DBATU</text>
+
+  <!-- tagline strip -->
+  <text x="72" y="200" font-family="Consolas, 'Courier New', monospace" font-size="13.5" fill="#7a7296">building secure systems &#8226; full-stack apps &#8226; always learning</text>
+
+  <!-- baseline accent -->
+  <rect x="70" y="215" width="46" height="4" rx="2" fill="#EC4899"/>
+  <rect x="122" y="215" width="14" height="4" rx="2" fill="#6C5CE7"/>
+  <rect x="142" y="215" width="7" height="4" rx="2" fill="#06B6D4"/>
+</svg>
