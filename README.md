@@ -28,9 +28,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square)
 
 ## 📊 GitHub Stats
-- https://github-readme-stats.vercel.app/api?username=vraut130512-maker&show_icons=true&theme=tokyonight
-- https://github-readme-streak-stats.herokuapp.com/?user=vraut130512-maker&theme=tokyonight
-- https://github-readme-stats.vercel.app/api/top-langs/?username=vraut130512-maker&layout=compact&theme=tokyonight
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vraut130512-maker&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraut130512-maker&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vraut130512-maker&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🔥 Featured Projects
 - Secure File Transfer
