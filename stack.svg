@@ -1,0 +1,95 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="900" y2="300" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#2b2470"/>
+    <stop offset="100%" stop-color="#5b3a9e"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="300" rx="20" fill="url(#sky)"/>
+<text x="32" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="1">TECH STACK</text>
+<rect x="32" y="52" width="42" height="3" rx="1.5" fill="#FF6A45"/>
+<g transform="translate(90,130)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#3B82F6" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#25539d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#306ac9" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">PY</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">Python</text>
+</g>
+<g transform="translate(220,130)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#F59E0B" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#9c6507" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#c88109" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">JV</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">Java</text>
+</g>
+<g transform="translate(350,130)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#10B981" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#0a7652" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#0d9769" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">SQL</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">SQL</text>
+</g>
+<g transform="translate(480,130)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#EAB308" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#957205" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#bf9206" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">JS</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">JavaScript</text>
+</g>
+<g transform="translate(610,130)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#06B6D4" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#037487" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#0495ad" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">RX</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">React</text>
+</g>
+<g transform="translate(740,130)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#EC4899" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#972e61" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#c13b7d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">HTM</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">HTML</text>
+</g>
+<g transform="translate(155.0,200)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#8B5CF6" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#583a9d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#714bc9" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">CSS</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">CSS</text>
+</g>
+<g transform="translate(285.0,200)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#3B82F6" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#25539d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#306ac9" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">ND</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">Node.js</text>
+</g>
+<g transform="translate(415.0,200)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#F59E0B" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#9c6507" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#c88109" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">GIT</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">Git</text>
+</g>
+<g transform="translate(545.0,200)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#9CA3AF" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#636870" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#7f858f" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">GH</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">GitHub</text>
+</g>
+<g transform="translate(675.0,200)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#10B981" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#0a7652" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#0d9769" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">MDB</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">MongoDB</text>
+</g>
+<g transform="translate(805.0,200)">
+<polygon points="0,0 26,13.0 0,26 -26,13.0" fill="#EAB308" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-26,13.0 0,26 0,46 -26,33.0" fill="#957205" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,26 26,13.0 26,33.0 0,46" fill="#bf9206" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="0" y="17.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#0b0912">LNX</text>
+<text x="0" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="500" fill="#d8d2ff">Linux</text>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#2b2470"/>
+    <stop offset="100%" stop-color="#5b3a9e"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="280" rx="20" fill="url(#sky)"/>
+<text x="32" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="1">JOURNEY</text>
+<rect x="32" y="52" width="42" height="3" rx="1.5" fill="#FF6A45"/>
+<g transform="translate(140,190)">
+<polygon points="0,0 46,23.0 0,46 -46,23.0" fill="#EC4899" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-46,23.0 0,46 0,72.0 -46,49.0" fill="#972e61" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,46 46,23.0 46,49.0 0,72.0" fill="#c13b7d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+</g>
+<text x="140" y="150" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#c9c3ff">2020-21</text>
+<text x="140" y="168" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">SSC</text>
+<g transform="translate(330,156)">
+<polygon points="0,0 46,23.0 0,46 -46,23.0" fill="#8B5CF6" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-46,23.0 0,46 0,92.4 -46,69.4" fill="#583a9d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,46 46,23.0 46,69.4 0,92.4" fill="#714bc9" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+</g>
+<text x="330" y="116" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#c9c3ff">2021-24</text>
+<text x="330" y="134" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">Diploma, IT</text>
+<g transform="translate(520,122)">
+<polygon points="0,0 46,23.0 0,46 -46,23.0" fill="#06B6D4" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-46,23.0 0,46 0,112.8 -46,89.8" fill="#037487" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,46 46,23.0 46,89.8 0,112.8" fill="#0495ad" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+</g>
+<text x="520" y="82" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#c9c3ff">2024-27</text>
+<text x="520" y="100" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">B.Tech CSE</text>
+<g transform="translate(710,88)">
+<polygon points="0,0 46,23.0 0,46 -46,23.0" fill="#22c55e" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="-46,23.0 0,46 0,133.2 -46,110.19999999999999" fill="#157e3c" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+<polygon points="0,46 46,23.0 46,110.19999999999999 0,133.2" fill="#1ba14d" stroke="#1c1440" stroke-width="1.2" stroke-linejoin="round"/>
+</g>
+<text x="710" y="48" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#c9c3ff">now</text>
+<text x="710" y="66" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">Job-ready</text>
+</svg>
