@@ -44,16 +44,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vraut130512-maker&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraut130512-maker&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vraut130512-maker&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vraut130512-maker&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vraut130512-maker/vraut130512-maker/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > To make the snake work: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates the SVG above from your contribution graph on a schedule.
@@ -71,13 +71,13 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vraut130512-maker&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2ea44f" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vraut130512-maker&style=for-the-badge&color=2ea44f" alt="profile views" />
 </p>
 
 <p align="center"><i>⭐ From <a href="https://vivekraut.in">vivekraut.in</a> — always building something.</i></p>
