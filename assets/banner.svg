@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#020617"/><stop offset="100%" stop-color="#312e81"/></linearGradient></defs>
-<rect width="1400" height="350" fill="url(#g)"/>
-<circle cx="1200" cy="80" r="45" fill="#38bdf8" opacity="0.3"/>
-<text x="60" y="120" fill="white" font-size="64" font-family="Arial" font-weight="bold">Vivek Raut</text>
-<text x="60" y="175" fill="#7dd3fc" font-size="30" font-family="Arial">Software Engineer • Java Full Stack</text>
-<text x="60" y="220" fill="#cbd5e1" font-size="24">React • Python • Secure Software Development</text>
-<text x="60" y="285" fill="#93c5fd" font-size="22">🌐 vivekraut.in</text>
-</svg>
