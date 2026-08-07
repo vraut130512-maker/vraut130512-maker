@@ -1,9 +1,0 @@
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Configure snake animation later."
