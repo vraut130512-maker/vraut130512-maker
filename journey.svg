@@ -1,0 +1,54 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="900" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f4f5f9"/>
+      <stop offset="100%" stop-color="#e9ebf3"/>
+    </linearGradient>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <linearGradient id="glassBig" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.68"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="line" x1="70" y1="0" x2="830" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF375F"/>
+      <stop offset="33%" stop-color="#AF52DE"/>
+      <stop offset="66%" stop-color="#0A84FF"/>
+      <stop offset="100%" stop-color="#30D158"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="170" rx="24" fill="url(#base)"/>
+  <circle cx="120" cy="30" r="100" fill="#FF375F" opacity="0.32" filter="url(#blur1)"/>
+  <circle cx="500" cy="150" r="100" fill="#AF52DE" opacity="0.3" filter="url(#blur1)"/>
+  <circle cx="820" cy="30" r="100" fill="#30D158" opacity="0.32" filter="url(#blur1)"/>
+
+  <rect x="26" y="20" width="848" height="130" rx="22" fill="url(#glassBig)" stroke="#ffffff" stroke-opacity="0.6"/>
+
+  <text x="54" y="56" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1d1d1f" letter-spacing="1">JOURNEY</text>
+
+  <line x1="70" y1="110" x2="830" y2="110" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(70,110)">
+    <circle r="8" fill="#ffffff" stroke="#FF375F" stroke-width="3"/>
+    <text x="0" y="-16" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#6e6e73">2020&#8211;21</text>
+    <text x="0" y="30" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1d1d1f">SSC</text>
+  </g>
+
+  <g transform="translate(330,110)">
+    <circle r="8" fill="#ffffff" stroke="#AF52DE" stroke-width="3"/>
+    <text x="0" y="-16" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#6e6e73">2021&#8211;24</text>
+    <text x="0" y="30" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1d1d1f">Diploma, IT</text>
+  </g>
+
+  <g transform="translate(600,110)">
+    <circle r="8" fill="#ffffff" stroke="#0A84FF" stroke-width="3"/>
+    <text x="0" y="-16" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#6e6e73">2024&#8211;27</text>
+    <text x="0" y="30" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1d1d1f">B.Tech CSE</text>
+  </g>
+
+  <g transform="translate(830,110)">
+    <circle r="9" fill="#30D158"/>
+    <text x="0" y="-16" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#22a446">now</text>
+    <text x="0" y="30" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1d1d1f">Job-ready</text>
+  </g>
+</svg>
